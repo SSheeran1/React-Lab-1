@@ -1,0 +1,8 @@
+.Header {
+  box-shadow: 0 3px 3px grey;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  color: #0e3c7e;
+  font-family: "Caveat", cursive;
+}

@@ -1,0 +1,14 @@
+.Ad {
+}
+
+.Ad .box {
+  box-shadow: 0 0 6px gray;
+  border: 2px solid #222;
+  width: fit-content;
+  padding: 5px;
+}
+
+.Ad .dark {
+  background-color: black;
+  color: white;
+}
